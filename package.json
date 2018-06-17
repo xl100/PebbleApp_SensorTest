@@ -1,0 +1,29 @@
+{
+    "author": "xl100@tds.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "sensor-test",
+    "pebble": {
+        "displayName": "Sensor test",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "KEY_BUTTON",
+            "KEY_VIBRATE"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "0cd31e8e-8416-4ae1-a180-dc645c4b83c4",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
